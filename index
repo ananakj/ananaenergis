@@ -1,0 +1,86 @@
+<body> 
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Usinas Eólicas - Blog</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Blog sobre Usinas Eólicas</h1>
+    </header>
+    <main>
+        <article class="post">
+            <img src="https://ecoa.org.br/wp-content/uploads/2017/05/usinas-eolicas-de-osorio-s.jpg" alt="Usina Eólica" class="post-image">
+            <h2>O que são Usinas Eólicas?</h2>
+            <p>
+                Usinas eólicas são instalações projetadas para converter a energia cinética do vento em eletricidade
+                utilizando turbinas eólicas. Estas usinas são uma forma de energia renovável e sustentável,
+                contribuindo significativamente para a redução das emissões de gases de efeito estufa.
+            </p>
+        </article>
+
+        <article class="post">
+            <h2>Como as Usinas Eólicas Geram Energia?</h2>
+            <p>
+                As usinas eólicas geram energia por meio de turbinas eólicas que convertem a energia cinética do vento em eletricidade. 
+                O processo começa quando o vento faz as lâminas da turbina girarem. Este movimento rotacional é transmitido para um 
+                gerador, que converte a energia mecânica em eletricidade. A eletricidade gerada é então enviada para a rede elétrica 
+                para abastecer casas, empresas e indústrias.
+            </p>
+        </article>
+        
+        <article class="post">
+            <h2>Curiosidades</h2>
+            <ul>
+                <li>As turbinas eólicas podem ser tão altas quanto um prédio de 30 andares.</li>
+                <li>O maior parque eólico do mundo está localizado na China e tem mais de 7.000 turbinas.</li>
+                <li>A velocidade mínima do vento necessária para gerar eletricidade é de cerca de 3 a 4 metros por segundo.</li>
+                <li>Algumas turbinas podem gerar eletricidade mesmo com ventos muito baixos, usando tecnologia avançada.</li>
+            </ul>
+        </article>
+        
+        <article class="post">
+            <h2>Benefícios das Usinas Eólicas</h2>
+            <ul>
+                <li>Redução das emissões de gases de efeito estufa.</li>
+                <li>Fonte de energia renovável e sustentável.</li>
+                <li>Geração de empregos durante a construção e manutenção das usinas.</li>
+                <li>Redução da dependência de combustíveis fósseis.</li>
+            </ul>
+        </article>
+        
+        <article class="post">
+            <h2>Malefícios das Usinas Eólicas</h2>
+            <ul>
+                <li>Impacto visual e paisagístico em algumas áreas.</li>
+                <li>Possível impacto sobre a fauna local, especialmente aves e morcegos.</li>
+                <li>Interferência em sinais de comunicação e radares.</li>
+                <li>Dependência de condições climáticas favoráveis para gerar eletricidade.</li>
+            </ul>
+        </article>
+        
+        <article class="post">
+            <h2>Instalações de Usinas Eólicas no Brasil</h2>
+            <p>
+                O Brasil possui um grande potencial para a geração de energia eólica, especialmente nas regiões
+                Nordeste e Sul do país. O Estado da Bahia, por exemplo, é um dos maiores produtores de energia eólica
+                do Brasil. Outras regiões como o Rio Grande do Norte, o Ceará e o Piauí também possuem várias
+                usinas eólicas em operação.
+            </p>
+            <p>
+                Em 2023, o Brasil tinha mais de 20 GW de capacidade instalada em usinas eólicas, com planos para
+                expandir ainda mais esse número nos próximos anos. A energia eólica tem se mostrado uma solução
+                eficiente para diversificar a matriz energética brasileira e promover a sustentabilidade.
+            </p>
+        </article>
+    </main>
+    <footer>
+        <p>&copy; 2024 Blog sobre Usinas Eólicas. Todos os direitos reservados.</p>
+    </footer>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+
+  </body>
+</html>
